@@ -24,6 +24,4 @@
 
 
 ## 🌐 Connect With Me
-
-- LinkedIn: add-your-link
 - Email: paginimesh81@gmail.com
