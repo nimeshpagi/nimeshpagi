@@ -5,7 +5,7 @@
 - 🔭 Working in Computer Vision & AI
 - 🌱 Learning Deep Learning and GenAI
 - 💻 Python | OpenCV | PyTorch
-- 📍 Vadodara, India
+- 📍 India
 
 ---
 
@@ -22,13 +22,6 @@
 
 ![Nimesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimeshpagi&show_icons=true)
 
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nimeshpagi)
-
----
 
 ## 🌐 Connect With Me
 
